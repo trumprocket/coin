@@ -41,5 +41,3 @@ skids from using our code. (That and we're too lazy to compile it for you. And, 
 * [Bringux](doc/build-unix.md) - ***(Linux - here's to all those Bringus Studios fans out there)***
 
 *NOTE: I am not related to Bringus Studios. I am just a fan, that's why I made the above joke.*
-
-You know what? For you fellow macOS fans out there I ***may every so often make a macOS build, but here be dragons.***

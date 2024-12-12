@@ -16,8 +16,9 @@ mit license. lmfao
 Development Process
 -------------------
 
-main/master branch is the dev branch.
-the rest is TBD ***eventually.*** (Like, forever from now.)
+main/master branch is the dev branch. ***please patch any bugs via a fork and create a pull request 
+to help the project out.*** i know for a fact there's several bugs to fix. the rest is TBD ***eventually.***
+(Like, forever from now.)
 
 Testing
 -------

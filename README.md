@@ -6,7 +6,7 @@ What is TrumpRocket?
 
 TrumpRocket is the peak in shitcoin technology and memeology.
 
-For more information, see [https://trumprocket.github.io](https://trumprocket.github.io).
+For more information, see [our website](https://trumprocket.github.io) and [the toilet paper/brown paper.](https://github.com/trumprocket/toiletpaper)
 
 License
 -------

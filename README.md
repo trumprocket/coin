@@ -34,7 +34,7 @@ Building from source (WARNING: TONS MORE NERD SHIT!)
 
 We're not giving you binaries because in order to use TrumpRocket you have to be on the sigma grind mindset.
 Therefore, you must learn to compile this project from source in order to use it. JK, it's actually to prevent
-skids from using our code. But if you want to learn you can check the docs. Here are some of the common platforms:
+skids from using our code. (That and we're too lazy to compile it for you. And, honestly, we're afraid of your wrath if we do it wrong.) But if you want to learn you can check the docs. Here are some of the common platforms:
 
 * [Michaelsoft Bindows](doc/build-windows.md) - ***(Microsoft Windows - only good for gaming and getting malware)***
 * [McIntosh OS](doc/build-osx.md) - ***(Apple macOS - the best choice)***

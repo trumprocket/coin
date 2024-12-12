@@ -23,7 +23,7 @@ to help the project out.*** i know for a fact there's several bugs to fix. the r
 Testing
 -------
 
-testing? we push to production here. lmfao.
+testing? we push to production here. ***our main branch IS production!*** lmfao.
 
 Translations (WARNING: CONTAINS NERD SHIT!)
 ------------

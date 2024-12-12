@@ -36,7 +36,7 @@ We're not giving you binaries because in order to use TrumpRocket you have to be
 Therefore, you must learn to compile this project from source in order to use it. JK, it's actually to prevent
 skids from using our code. But if you want to learn you can check the docs. Here are some of the common platforms:
 
-* [Michaelsoft Bindows](doc/build-win.md) - ***(Microsoft Windows - only good for gaming and getting malware)***
+* [Michaelsoft Bindows](doc/build-windows.md) - ***(Microsoft Windows - only good for gaming and getting malware)***
 * [McIntosh OS](doc/build-osx.md) - ***(Apple macOS - the best choice)***
 * [Bringux](doc/build-unix.md) - ***(Linux - here's to all those Bringus Studios fans out there)***
 

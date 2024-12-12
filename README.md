@@ -17,7 +17,7 @@ Development Process
 -------------------
 
 main/master branch is the dev branch.
-the rest is TBD ***eventually.***
+the rest is TBD ***eventually.*** (Like, forever from now.)
 
 Testing
 -------
